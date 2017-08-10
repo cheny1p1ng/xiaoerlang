@@ -19,7 +19,7 @@
                      <key>needs-shine</key>
                      <false/>
                      <key>url</key>
-                     <string>http://www.swisoft.cn:8080/chat/download/splash-land.png</string>
+                     <string>http://www.swisoft.cn:8080/chat/download/icon.png</string>
                  </dict>
                 <dict>
                      <key>kind</key>
@@ -33,7 +33,7 @@
              <key>metadata</key>
              <dict>
                  <key>bundle-identifier</key>
-                <string>BundleID（必填）</string>
+                <string>com.swisoft.xiaoer</string>
                  <key>bundle-version</key>
                  <string>1.0</string>
                  <key>kind</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                  <string>副标题（非必填）</string>
                  <key>title</key>
-                 <string>应用名（必填）</string>
+                 <string>小二郎</string>
              </dict>
          </dict>
      </array>
